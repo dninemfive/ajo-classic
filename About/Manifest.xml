@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>D9AJOClassic</identifier>
+    <version>1.0.1</version>
+    <dependencies>
+		<li>D9DRF</li>
+	</dependencies>
+    <loadAfter/>
+    <suggests>
+		<li>1842663639</li> <!-- Retro Joy -->		
+	</suggests>
+    <showCrossPromotions>true</showCrossPromotions>
+    <manifestUri>https://raw.githubusercontent.com/dninemfive/ajo-classic/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/dninemfive/ajo-classic/releases/latest</downloadUri>
+</Manifest>
