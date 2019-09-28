@@ -2,10 +2,9 @@
 <Manifest>
     <identifier>D9AJOClassic</identifier>
     <version>1.0.1</version>
-    <dependencies>
-		<li>D9DRF</li>
-	</dependencies>
-    <loadAfter/>
+    <loadAfter>
+		<li>D9DeconstructReturnFix</li>
+	</loadAfter>
     <suggests>
 		<li>1842663639</li> <!-- Retro Joy -->		
 	</suggests>
